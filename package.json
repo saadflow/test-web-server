@@ -1,0 +1,11 @@
+{
+  "name": "test-web-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:saadflow/test-web-server.git",
+  "author": "Saâd Yousfi <saad@mindflow.io>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
